@@ -6,3 +6,5 @@ Learn how to make a landing page using HTML CSS and a little bit of JavaScript, 
 
 Thanks,
 [codermj](https://www.youtube.com/c/codermj)
+
+![preview](https://user-images.githubusercontent.com/76812554/111771429-e23d1e80-88d5-11eb-957d-2d25ce12ac41.jpg)
